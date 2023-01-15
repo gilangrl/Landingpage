@@ -1,0 +1,93 @@
+body{
+	margin: 0;
+	padding:0;
+	background: linear-gradient(90deg, #FFFFFF 0%, rgba(238, 243, 254, 0.46) 27.4%, rgba(140, 177, 249, 0.71) 100%);
+}
+
+.ml12 {
+	font-weight: 500;
+	font-size: 30px;
+	line-height: 60px;
+	font-family: 'Poppins', sans-serif;
+	padding-top: 150px;
+	color: rgba(255, 86, 86, 0.71);
+}
+
+.ml12 .letter {
+  	display: inline-block;
+}
+
+.btn{
+	width:10%;
+	height: 50px;
+    border-radius:10px;
+    letter-spacing: 0.05em;
+    padding: 5px;
+    color: #fff;
+	background-color: #7da9fe;
+	opacity: 0.7;
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 38px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.menu ul li{
+	list-style: none;
+	padding: 10px ;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 45px;
+	color: #000;
+}
+
+.features-box{
+	padding:10px;
+}
+
+.features-box h4{
+	font-weight: 700;
+	font-size: 25px;
+	line-height: 45px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.features-box p{
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 38px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.form-label{
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 30px;
+	font-family: 'Poppins', sans-serif;
+}	
+
+.form-control{
+	width: 770px;
+	height: 60px;	
+	background: rgba(133, 182, 255, 0.3);
+	border-radius: 20px;
+}
+
+form{
+	margin-left: 150px;
+	padding:0px 20px;
+}
+
+.tmbl{
+	width: 770px;
+	height: 70px;
+    letter-spacing: 0.05em;
+    color: #fff;
+	background: #85B6FF;
+	border-radius: 20px;
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 45px;
+	font-family: 'Poppins', sans-serif;
+}
